@@ -10,7 +10,7 @@ def manage_marks():
    # store the marks in the list
    total_marks =[marks1,marks2,marks3,marks4,marks5]
    # calculating average marks
-   avreage=sum(total_marks)/2
+   avreage=sum(total_marks)/5
    print("Average Marks: ",avreage)
    #claculating highest marks
    highest =max(total_marks)
